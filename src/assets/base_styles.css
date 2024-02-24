@@ -8,3 +8,35 @@
     background-repeat: no-repeat;
     background-position-y: center;
 }
+/* Общие стили */
+::-webkit-scrollbar {
+    width: 5px
+}
+
+::-webkit-scrollbar-track {
+    background: #151515;
+    border-top-right-radius: .375rem!important;
+    border-bottom-right-radius: .375rem!important;
+    margin-right: 5px!important
+}
+
+::-webkit-scrollbar-thumb {
+    background: white;
+    border-radius: .375rem
+}
+
+::-webkit-scrollbar {
+    width: 5px
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+    border-top-right-radius: .375rem!important;
+    border-bottom-right-radius: .375rem!important;
+    margin-right: 5px!important
+}
+
+::-webkit-scrollbar-thumb {
+    background: #9ca7ff;
+    border-radius: .375rem
+}

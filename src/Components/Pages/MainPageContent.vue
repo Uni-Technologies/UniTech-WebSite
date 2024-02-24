@@ -5,7 +5,7 @@ export default {
   data() {
     return {
       dev_logs: [
-        
+
       ]
     }
   }
@@ -27,7 +27,6 @@ export default {
 </template>
 
 <style scoped>
-
 .dev-log-text {
   margin: 20px;
 }

@@ -29,7 +29,6 @@ export default {
   <router-view/>
 </template>
 
-// WHAT THE HELL
 <style scoped>
 .centered-text {
   text-align: center;
