@@ -6,8 +6,8 @@ export default {
   data() {
     return {
       users: [
-        {name: 'Иcт', description: 'C#/Python разработчик, основной участник в разработке новых проектов', icon: 'src/assets/Avatars/Ist.png'},
-        {name: 'James Bond', description: 'JS/TS разработчик, специализируется по Web-сайтам и Discord ботам', icon: 'src/assets/Avatars/generic.png'},
+        {name: 'Иcт', description: 'C#/Python разработчик, основной участник в разработке новых проектов', icon: 'https://cdn.discordapp.com/attachments/1004365422767902771/1210885250842894409/Ist.png?ex=65ec2fc4&is=65d9bac4&hm=0104f15236a0ea6fb6de7ff60ee8ee275f216078fdd69b6c4af50b32d7363f3f&'},
+        {name: 'James Bond', description: 'JS/TS разработчик, специализируется по Web-сайтам и Discord ботам', icon: 'https://cdn.discordapp.com/attachments/1004365422767902771/1210885251270840370/generic.png?ex=65ec2fc5&is=65d9bac5&hm=a178e309bf4d5a6904fb32fcd010af151e00fc86d0883f6dbf27c61646f33988&'},
       ]
     }
   }
