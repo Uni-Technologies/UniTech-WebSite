@@ -5,8 +5,7 @@ export default {
   data() {
     return {
       dev_logs: [
-        {title:'Dev-лог #145', description: 'Весь проект был ПОЛНОСТЬЮ переписан, была переведена документация.', time: '23.02.2024', relatedProject: 'Quant.cs'},
-        {title:'Dev-лог #170', description: 'Весь проект был ПОЛНОСТЬЮ переписан, была переведена документация.', time: '23.02.2024', relatedProject: 'Quant.cs'}
+        
       ]
     }
   }
